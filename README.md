@@ -31,6 +31,14 @@ See [Book by Carl Rippon](https://www.carlrippon.com/books/)
 
 > npm i -D ts-node
 
+> npm i -D tailwindcss
+
+> npm i -D postcss
+
+> npm i -D autoprefixer
+
+> npx tailwindcss init -p
+
 > npx create-react-app app --template typescript
 
 
